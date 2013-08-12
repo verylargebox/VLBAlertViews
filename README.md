@@ -22,7 +22,11 @@ The 'VLBAlertViews.xcodeproj' builds a static library 'libVLBAlertViews.a'
 
 # Cocoapods
 
-Pending pull request.
+-> VLBAlertViews (1.0)
+   An API that uses blocks with UIAlertView(s), adds support for multiple delegates and introduces local scope to a UIAlertViewDelegate.
+   - Homepage: https://github.com/qnoid/VLBAlertViews
+   - Source:   https://github.com/qnoid/VLBAlertViews.git
+   - Versions: 1.0 [master repo]
 
 # Versions
 1.0 initial version. Supports blocks, multiple delegate assignment, local scope.
