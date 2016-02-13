@@ -20,7 +20,7 @@ A composite of VLBAlertViewDelegate(s), can be used to respond to different clic
 * VLBAlertViews
 The 'VLBAlertViews.xcodeproj' builds a static library 'libVLBAlertViews.a'
 
-# Cocoapods
+# CocoaPods
 
 -> VLBAlertViews (1.0)
    An API that uses blocks with UIAlertView(s), adds support for multiple delegates and introduces local scope to a UIAlertViewDelegate.
